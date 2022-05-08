@@ -1,0 +1,10 @@
+.footer__title {
+    font-family: InterBlack;
+    font-weight: 900;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 72px;
+    margin-bottom: 2rem;
+    position: relative;
+    z-index: 3;    
+}
