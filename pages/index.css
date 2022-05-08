@@ -59,7 +59,7 @@
 
 .cities__list, .introduction__texts, .introduction__author {
   max-width: calc(100vw - 3rem);
-  margin: 0 auto
+  margin: 0 auto;
 }
 
 .introduction__author{
@@ -103,7 +103,7 @@
 .introduction__title, .introduction__quote, .introduction__author, .introduction__text {
   max-width: calc(100vw - 2rem);
   padding-left: 0;
-  margin: 0 auto
+  margin: 0 auto;
 }
 
 .introduction__image {
