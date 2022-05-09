@@ -2,11 +2,11 @@
     background-color: #2A2C2F;
 }
 
-.main__theme_dark {
+.main_theme_dark {
     color: #FFFFFF;
 }
 
-.artist__theme_dark {
+.artist_theme_dark {
     color: #AAAAAA;
     font-family: 'InterRegular';
     font-size: 12px;
