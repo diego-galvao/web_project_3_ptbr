@@ -1,0 +1,9 @@
+.lead__overlay {
+    height: 100%;
+    width: 100%;
+    background-color: #2A2C2F;
+    opacity: 0.3;
+    position: absolute;
+    top: 0;
+    left: 0;  
+}

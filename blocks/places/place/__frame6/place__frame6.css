@@ -1,0 +1,25 @@
+.place__frame6 {
+  width: 288px;
+  height: 48px;
+  background: #0278FE;
+  border-radius: 4px;
+  font-family: 'InterRegular';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 22px;
+  color: #FFFFFF;
+  grid-column: 1 / span 2;
+  grid-row: 4;
+  margin-top: 3rem;
+}
+
+.place__frame6:hover {
+    background: #0063D2;
+}
+
+@media screen and (max-width: 320px) {
+
+  .place__frame6 {
+    margin: 1.875rem auto;
+  }
+}

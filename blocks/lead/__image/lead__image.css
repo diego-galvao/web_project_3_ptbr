@@ -1,0 +1,27 @@
+.lead__image { 
+  margin-top: 64px;
+  max-width: 77%;
+  height: 615px;
+  background: url("./kalegin-michail.jpg") no-repeat;
+  background-size: cover;
+  margin-left: 11.5%;
+  position: relative;
+}
+
+@media screen and (max-width: 768px) {
+
+  .lead__image {
+    max-width: 100%;
+    height: 480px;  
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+
+  .lead__image {
+    margin-top: 40px;
+    width: 100vw;
+    height: 200px;  
+  }
+}

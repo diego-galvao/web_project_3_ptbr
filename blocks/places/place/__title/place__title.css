@@ -1,0 +1,21 @@
+.place__title {
+  grid-column-start: 1;
+  grid-column-end: 1;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  font-size: 4.5em;
+  max-width: 420px;
+  font-family: 'InterBlack';
+  margin-bottom: 3rem;
+  align-self: flex-end;
+}
+
+@media screen and (max-width: 320px) {
+
+  .place__title {
+    width: 90%;
+    font-size: 32px;
+    margin: 0 auto 1.875rem auto;
+    align-self: flex-start;
+  }
+}

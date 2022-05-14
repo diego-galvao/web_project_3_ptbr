@@ -5,3 +5,17 @@
   font-family: 'InterRegular';
   font-weight: 400;
 }
+
+@media screen and (max-width: 768px) {
+
+  .footer__author {
+    padding-top: 5.5em;
+  }
+}
+
+@media screen and (max-width: 320px) {
+
+  .footer__author {
+    padding-top: 4em;
+  }
+}

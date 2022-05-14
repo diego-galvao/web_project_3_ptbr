@@ -1,5 +1,5 @@
 .cover__button {
-  width: 137px;
+  width: 191px;
   height: 48px;
   color: #FFFFFF;
   background-color: #0278FE;
@@ -18,4 +18,10 @@
   background-color: #0063D2;
 }
 
+@media screen and (max-width: 320px) {
+
+  .cover__button {
+    margin: 1rem auto;
+  }
+}
 
