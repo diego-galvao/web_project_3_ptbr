@@ -1,4 +1,4 @@
-.place__title {
+.places__title {
   grid-column-start: 1;
   grid-column-end: 1;
   grid-row-start: 1;
@@ -12,7 +12,7 @@
 
 @media screen and (max-width: 320px) {
 
-  .place__title {
+  .places__title {
     width: 90%;
     font-size: 32px;
     margin: 0 auto 1.875rem auto;

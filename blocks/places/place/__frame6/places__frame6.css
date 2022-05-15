@@ -1,4 +1,4 @@
-.place__frame6 {
+.places__frame6 {
   width: 288px;
   height: 48px;
   background: #0278FE;
@@ -13,13 +13,13 @@
   margin-top: 3rem;
 }
 
-.place__frame6:hover {
+.places__frame6:hover {
     background: #0063D2;
 }
 
 @media screen and (max-width: 320px) {
 
-  .place__frame6 {
+  .places__frame6 {
     margin: 1.875rem auto;
   }
 }
