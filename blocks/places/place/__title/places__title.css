@@ -6,8 +6,17 @@
   font-size: 4.5em;
   max-width: 420px;
   font-family: 'InterBlack';
-  margin-bottom: 3rem;
   align-self: flex-end;
+  margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+
+  .places__title {
+    font-size: 42px;
+    margin: 0;
+    align-self: flex-start;
+  }
 }
 
 @media screen and (max-width: 320px) {
@@ -15,7 +24,7 @@
   .places__title {
     width: 90%;
     font-size: 32px;
-    margin: 0 auto 1.875rem auto;
+    margin: 0 auto;
     align-self: flex-start;
   }
 }

@@ -4,7 +4,6 @@
     height: max-content;
     margin: 0;
     align-self: flex-end;
-    margin-bottom: 3rem;
   }
 
   @media screen and (max-width: 320px) {
@@ -12,6 +11,6 @@
     .places__website{
       width: 90%;
       align-self: flex-start;
-      margin: 0 auto 1.875rem auto;
+      margin: 0 auto;
     }
   }

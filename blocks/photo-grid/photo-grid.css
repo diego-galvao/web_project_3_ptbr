@@ -4,7 +4,8 @@
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(2, 1fr);
     grid-gap: 1em;
-    padding-top: 8em;
+    padding-top: 92px;
+    padding-bottom: 92px;
     margin: 0 auto;
 }
 
@@ -14,7 +15,8 @@
       max-width: 93.75%;
       grid-template-columns: repeat(2, 1fr);
       grid-template-rows: repeat(4, 1fr);
-      padding-top: 4rem;
+      padding-top: 64px;
+      padding-bottom: 88px;
     }
 }
 
@@ -24,7 +26,7 @@
     max-width: 90%;
     grid-template-columns: repeat(1, 1fr);
     grid-template-rows: repeat(8, 1fr);
-    padding-top: 2.375rem;
-    padding-bottom: 3.875rem;
+    padding-top: 38px;
+    padding-bottom: 62px;
   }
 }

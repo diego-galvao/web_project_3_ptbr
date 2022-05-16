@@ -1,12 +1,4 @@
-.main{
-    background-color: #2A2C2F;
-}
-
-.main_theme_dark {
-    color: #FFFFFF;
-}
-
-.artist_theme_dark {
+.places__url-heading {
     color: #AAAAAA;
     font-family: 'InterRegular';
     font-size: 12px;
@@ -14,3 +6,10 @@
     letter-spacing: 0.12em;
     line-height: 15px;
 }
+
+@media screen and (max-width: 320px) {
+
+    .places__url-heading {
+      margin: 0 0 8px 0;
+    }
+  }

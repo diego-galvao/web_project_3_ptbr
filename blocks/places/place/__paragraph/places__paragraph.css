@@ -1,6 +1,7 @@
 .places__texts {
     grid-column: 2;
-    grid-row: 3;
+    grid-row-start: 2;
+    grid-row-end: 4;
 }
 
 .places__paragraph {
@@ -9,6 +10,13 @@
     margin-top: 0;
     margin-bottom: 25px;
     font-size: 18px;
+}
+
+@media screen and (max-width: 768px) {
+
+    .places__paragraph {
+     font-size: 16px;
+    }
 }
 
 @media screen and (max-width: 320px) {
