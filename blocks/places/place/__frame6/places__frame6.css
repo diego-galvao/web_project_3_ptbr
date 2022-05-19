@@ -3,10 +3,10 @@
   height: 48px;
   background: #0278FE;
   border-radius: 4px;
-  font-family: 'InterRegular';
+  font-family: 'Inter';
   font-weight: 600;
   font-size: 14px;
-  line-height: 22px;
+  line-height: 1.22;
   color: #FFFFFF;
   grid-column: 1 / span 2;
   grid-row: 3;

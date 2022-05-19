@@ -1,7 +1,6 @@
 .cover__subtitle {
-  font-family: InterRegular;
   font-size: 18px;
-  line-height: 22px;
+  line-height: 1.22;
   max-width: 280px;
   margin: 0 auto;
   position: relative;

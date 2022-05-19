@@ -1,5 +1,5 @@
 .places__place {
-  max-width: calc(100vw - 18.5rem);
+  max-width: calc(100% - 296px);
   margin: 0 auto;
   display: grid;
   grid-template-columns: repeat(2, 1fr);

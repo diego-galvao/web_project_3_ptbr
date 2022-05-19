@@ -1,9 +1,9 @@
 .footer__author {
   padding-top: 92px;
+  padding-bottom: 24px;
   text-align: center;
   font-size: 14px;
-  font-family: 'InterRegular';
-  font-weight: 400;
+  margin: 0;
 }
 
 @media screen and (max-width: 768px) {

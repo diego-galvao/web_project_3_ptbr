@@ -3,11 +3,13 @@
   grid-column-end: 1;
   grid-row-start: 1;
   grid-row-end: 2;
-  font-size: 4.5em;
-  max-width: 420px;
-  font-family: 'InterBlack';
+  font-size: 72px;
+  max-width: 460px;
+  font-family: 'Inter';
+  font-weight: 900;
   align-self: flex-end;
   margin: 0;
+  padding: 0;
 }
 
 @media screen and (max-width: 768px) {
