@@ -1,0 +1,9 @@
+.places__paragraph_gap {
+  margin-bottom: 25px;
+}
+
+@media screen and (max-width: 530px) {
+  .places__paragraph_gap {
+    margin-bottom: 10px;
+  }
+}

@@ -1,0 +1,15 @@
+.places__place_gap {
+  margin-bottom: 80px;
+}
+
+@media screen and (max-width: 999px) {
+  .places__place_gap {
+    margin-bottom: 72px;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .places__place_gap {
+    margin-bottom: 50px;
+  }
+}

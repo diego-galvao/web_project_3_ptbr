@@ -1,8 +1,9 @@
 .cover__button {
   width: 191px;
   height: 48px;
-  color: #FFFFFF;
-  background-color: #0278FE;
+  color: #ffffff;
+  background-color: #0278fe;
+  font-family: "Inter-SemiBold";
   font-weight: 600;
   font-size: 16px;
   border-radius: 4px;
@@ -14,13 +15,11 @@
 }
 
 .cover__button:hover {
-  background-color: #0063D2;
+  background-color: #0063d2;
 }
 
-@media screen and (max-width: 320px) {
-
+@media screen and (max-width: 530px) {
   .cover__button {
-    margin: 1rem auto;
+    margin: 16px auto 0;
   }
 }
-
