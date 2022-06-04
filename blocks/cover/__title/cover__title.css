@@ -1,17 +1,17 @@
 .cover__title {
-  font-family: 'Inter-Black';
+  font-family: "Inter";
+  font-weight: 900;
   text-align: center;
   margin: 0 auto;
   font-size: 72px;
-  margin-bottom: 2rem;
+  margin-bottom: 32px;
   position: relative;
-  z-index: 3;    
+  z-index: 3;
 }
 
 @media screen and (max-width: 530px) {
-
-    .cover__title {
-      font-size: 32px;
-      margin-bottom: 1rem;
-    }
+  .cover__title {
+    font-size: 32px;
+    margin-bottom: 1rem;
+  }
 }

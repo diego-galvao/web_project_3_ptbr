@@ -1,21 +1,5 @@
 .footer__author {
-  padding-top: 92px;
-  padding-bottom: 24px;
   text-align: center;
   font-size: 14px;
   margin: 0;
-}
-
-@media screen and (max-width: 768px) {
-
-  .footer__author {
-    padding-top: 88px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-
-  .footer__author {
-    padding-top: 64px;
-  }
 }

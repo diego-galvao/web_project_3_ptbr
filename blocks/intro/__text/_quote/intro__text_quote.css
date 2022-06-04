@@ -4,9 +4,9 @@
   margin-top: 40px;
 }
 
-@media screen and (max-width: 470px) {
+@media screen and (max-width: 530px) {
   .intro__text_quote {
     line-height: 1.25;
-    margin-top: 0;
+    margin-top: 9px;
   }
 }

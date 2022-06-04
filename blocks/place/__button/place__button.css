@@ -1,28 +1,28 @@
-.places__button {
+.place__button {
   max-width: 355px;
   height: 48px;
   background: #0278fe;
   border-radius: 4px;
-  font-family: "Inter-Semibold";
+  font-family: "Inter";
   font-weight: 600;
   font-size: 14px;
   line-height: 1.22;
   color: #ffffff;
-  align-self: flex-start;
   grid-area: button;
+  margin-top: 48px;
 }
 
-.places__button:hover {
+.place__button:hover {
   background: #0063d2;
 }
 
 @media screen and (max-width: 999px) {
-  .places__button {
+  .place__button {
     max-width: 100%;
   }
 }
 @media screen and (max-width: 530px) {
-  .places__button {
+  .place__button {
     margin: 30px auto 0;
     max-width: 90%;
   }

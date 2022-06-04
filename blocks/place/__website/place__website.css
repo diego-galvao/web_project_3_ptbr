@@ -1,4 +1,4 @@
-.places__website {
+.place__website {
   max-width: 484px;
   grid-area: artist;
   height: max-content;
@@ -7,13 +7,13 @@
 }
 
 @media screen and (max-width: 768px) {
-  .places__website {
+  .place__website {
     max-width: 93.75%;
   }
 }
 
 @media screen and (max-width: 530px) {
-  .places__website {
+  .place__website {
     width: 90%;
     align-self: flex-start;
     margin: 0 auto;
